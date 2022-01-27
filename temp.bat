@@ -1,0 +1,1 @@
+start /MAX cmd /k "echo. && echo Activating Main Python Venv && echo. && D: && cd D:\Virtual Environments\Main\Scripts && activate && cd D:\Repos\Image-Channel-Strength-Editor"
