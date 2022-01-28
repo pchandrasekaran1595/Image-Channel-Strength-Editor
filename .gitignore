@@ -5,3 +5,5 @@ venv
 *.jpg
 *.png
 .vscode
+temp.bat
+temp.*
